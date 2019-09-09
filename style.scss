@@ -33,3 +33,35 @@ body {
     color: white;
     background-color: #00E8E8;
 }
+.site-content {
+    background-image: url('./photos/pic1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+.site-title, .site-desc {
+    color: white;
+    font-family: 'Righteous';
+}
+.site-title {
+    margin-top: 30%;
+    margin-bottom: 6%;
+    font-style: 50px;
+}
+.site-desc {
+    font-style: 14px;
+    padding-left: 15%;
+}
+.site-btn1{
+    margin-left: 20%;
+    background-color: black;
+    color:white;
+}
+.site-btn2 {
+    background-color: white;
+}
+.site-btn1, .site-btn2 {
+    margin-top: 5%;
+    margin-bottom: 40%;
+}
+
+
