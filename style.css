@@ -76,11 +76,19 @@ body {
 .site-btn2 {
   margin-top: 5%;
   margin-bottom: 40%;
+  margin-left: 2%;
+  margin-right: 2%;
 }
 
 .card-img-top {
   width: 100%;
   height: 238px;
+}
+
+.flex-row {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
 }
 
 /* Section-1 */
