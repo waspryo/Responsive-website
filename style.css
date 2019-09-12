@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Pacifico|Roboto+Condensed|Ubuntu&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato|Righteous|Pacifico|Roboto+Condensed|Ubuntu&display=swap");
 body {
   padding: 0%;
   margin: 0%;
@@ -63,7 +63,7 @@ body {
 }
 
 .site-btn1 {
-  margin-left: 20%;
+  margin-left: 3%;
   background-color: black;
   color: white;
 }
@@ -105,5 +105,33 @@ body {
 
 .section-1 {
   margin-bottom: 8%;
+}
+
+/* Section 2 */
+.section-2 .container-fluid {
+  background-image: url("./photos/pic5.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.section-2 .heading-1 {
+  margin-top: 20%;
+  margin-bottom: 4%;
+  font-family: "Righteous";
+  width: 80%;
+  color: whitesmoke;
+}
+
+.section-2 .para {
+  width: 80%;
+  font-family: 'Ubuntu';
+  color: whitesmoke;
+  margin-bottom: 7%;
+}
+
+.section-2 .btn {
+  margin-bottom: 15%;
+  width: 30%;
+  padding: 2% 5%;
 }
 /*# sourceMappingURL=style.css.map */
