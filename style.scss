@@ -130,4 +130,24 @@ body {
         color: rgba(0, 0, 0, 0.59);
     }
 }
+/* Section 4 */
+.section-4 {
+    margin-top: 8%;
 
+    .row .col-md-7, .col-md-5 {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+    a {
+        color: lightseagreen;
+        font-size: 40px;
+        text-decoration: none;
+    }
+    .para-1 {
+        color: white;
+        font-family: 'Roboto Condensed';
+        margin-top: 7%;
+        font-size: 23px;
+    }
+}
+/* Footer */
